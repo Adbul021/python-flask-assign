@@ -1,0 +1,29 @@
+#block{
+    padding: 2rem 70rem 5rem 10rem;
+  }
+
+  .--tableblock{
+    position: absolute;
+    margin: -24rem 0 40rem 45rem;
+    width: 35rem;
+    
+  }
+  .table {
+    border-spacing: 0;
+    margin: 1rem;
+    background-color: #a3a3a3;
+  }
+
+  .--tablerow:nth-child(even){
+    background-color: #efeded;
+  }
+
+  .--tableheader {
+    text-align: left;
+  }
+
+  .--tablecell{
+    padding: 8px;
+  }
+
+
